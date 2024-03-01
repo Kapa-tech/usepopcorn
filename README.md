@@ -1,6 +1,6 @@
 # usepopcorn
 
-#created a  site with React.js that is similar to imdb.com
+# created a  site with React.js that is similar to imdb.com
 
 
 
